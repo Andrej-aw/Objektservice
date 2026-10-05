@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://andrej-aw.github.io/Objektservice
+Sitemap: https://andrej-aw.github.io/Objektservice/sitemap.xml
