@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-
-Host: https://www.objektservice-aw.de
-Sitemap: https://www.objektservice-aw.de/sitemap.xml
